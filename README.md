@@ -24,3 +24,7 @@ A simple website, Navigation Bar is inspired by a website i just forget that web
 • Looks complex but code is easy and anyone can understand it easily.
 
 • Responsive & Static Design.
+
+# Note
+
+There are three folders in the repository which i just created for the showing up my some of old desigs that i have created in the past.
